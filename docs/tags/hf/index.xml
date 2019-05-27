@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HF on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/tags/hf/</link>
+    <link>https://mauriciotosi.github.io/PIClab/tags/hf/</link>
     <description>Recent content in HF on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/tags/hf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/hf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Limpieza RCA</title>
-      <link>https://mauriciotosi.github.io/recetas/ra1-y-ra2/</link>
+      <link>https://mauriciotosi.github.io/PIClab/recetas/ra1-y-ra2/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/recetas/ra1-y-ra2/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/recetas/ra1-y-ra2/</guid>
       <description>Estándar de limpieza RCA  RCA1: se utiliza para remover partículas y residuos orgánicos en obleas de silicio. RAC2: se utiliza para remover iones metálicos en el wafer.   RCA1 La receta para elaborar RCA1 consiste en 5 partes de agua DI, 1 parte de hidróxido de amonio (NH$_4$OH) al 27% y 1 parte de peróxido de hidrógeno (H$_2$O$_2$) al 30%.
 Procedimiento En primer lugar se coloca el agua DI en un recipiente de Pyrex.</description>
     </item>

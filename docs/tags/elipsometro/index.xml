@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elipsometro on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/tags/elipsometro/</link>
+    <link>https://mauriciotosi.github.io/PIClab/tags/elipsometro/</link>
     <description>Recent content in Elipsometro on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/tags/elipsometro/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/elipsometro/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Elipsómetro</title>
-      <link>https://mauriciotosi.github.io/equipos/elipsometro/</link>
+      <link>https://mauriciotosi.github.io/PIClab/equipos/elipsometro/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/equipos/elipsometro/</guid>
-      <description>Elipsómetro Encendido: Para no tener problemas con el encendido de equipo, prender primero la fuente, esperar unos minutos y encender la computadora. Cuando se abre el programa de AutoSoft se tienen que escuchar el testing de los motores.
+      <guid>https://mauriciotosi.github.io/PIClab/equipos/elipsometro/</guid>
+      <description>Notas Encendido: Para no tener problemas con el encendido de equipo, prender primero la fuente, esperar unos minutos y encender la computadora. Cuando se abre el programa de AutoSoft se tienen que escuchar el testing de los motores.
 A continuación se indican los pasos a seguir con el objetivo de medir con el elipsómetro en varios puntos de forma automática:
  en el menú principal del AutoSoft (donde se setea el foco) mover los motores a la posición de loading.</description>
     </item>

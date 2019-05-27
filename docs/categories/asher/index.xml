@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asher on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/categories/asher/</link>
+    <link>https://mauriciotosi.github.io/PIClab/categories/asher/</link>
     <description>Recent content in Asher on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/categories/asher/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/categories/asher/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Asher</title>
-      <link>https://mauriciotosi.github.io/equipos/asher/</link>
+      <link>https://mauriciotosi.github.io/PIClab/equipos/asher/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/equipos/asher/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/equipos/asher/</guid>
       <description>Manual de operación básico  Cerramos la cámara.
  Activamos SOFT VACUUM.
  Activamos MAIN VACUUM.

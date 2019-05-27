@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/categories/</link>
+    <link>https://mauriciotosi.github.io/PIClab/categories/</link>
     <description>Recent content in Categories on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DWL</title>
-      <link>https://mauriciotosi.github.io/categories/dwl/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/dwl/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/dwl/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/dwl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Litografia</title>
-      <link>https://mauriciotosi.github.io/categories/litografia/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/litografia/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/litografia/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/litografia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PECVD</title>
-      <link>https://mauriciotosi.github.io/categories/pecvd/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/pecvd/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/pecvd/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/pecvd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Limpieza</title>
-      <link>https://mauriciotosi.github.io/categories/limpieza/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/limpieza/</link>
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/limpieza/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/limpieza/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oxidación</title>
-      <link>https://mauriciotosi.github.io/categories/oxidaci%C3%B3n/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/oxidaci%C3%B3n/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/oxidaci%C3%B3n/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/oxidaci%C3%B3n/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DeepRIE</title>
-      <link>https://mauriciotosi.github.io/categories/deeprie/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/deeprie/</link>
       <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/deeprie/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/deeprie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asher</title>
-      <link>https://mauriciotosi.github.io/categories/asher/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/asher/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/asher/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/asher/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Caracterizacion</title>
-      <link>https://mauriciotosi.github.io/categories/caracterizacion/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/caracterizacion/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/caracterizacion/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/caracterizacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Muestras</title>
-      <link>https://mauriciotosi.github.io/categories/muestras/</link>
+      <link>https://mauriciotosi.github.io/PIClab/categories/muestras/</link>
       <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/categories/muestras/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/categories/muestras/</guid>
       <description></description>
     </item>
     

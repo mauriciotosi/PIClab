@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ti Prime on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/tags/ti-prime/</link>
+    <link>https://mauriciotosi.github.io/PIClab/tags/ti-prime/</link>
     <description>Recent content in Ti Prime on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/tags/ti-prime/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/ti-prime/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ti Prime</title>
-      <link>https://mauriciotosi.github.io/recetas/ti-prime/</link>
+      <link>https://mauriciotosi.github.io/PIClab/recetas/ti-prime/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/recetas/ti-prime/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/recetas/ti-prime/</guid>
       <description>   Proceso Caracteristica Tiempo     Preparacion del substrato 120°C 20 min   Deposito (spin coat) 4000 RPM (receta 17) 30 seg   Post-cocido 120°C 2 min    </description>
     </item>
     

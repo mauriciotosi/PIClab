@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SiO2 on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/tags/sio2/</link>
+    <link>https://mauriciotosi.github.io/PIClab/tags/sio2/</link>
     <description>Recent content in SiO2 on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/tags/sio2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/sio2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Horno de oxidación</title>
-      <link>https://mauriciotosi.github.io/equipos/horno-de-oxidacion/</link>
+      <link>https://mauriciotosi.github.io/PIClab/equipos/horno-de-oxidacion/</link>
       <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mauriciotosi.github.io/equipos/horno-de-oxidacion/</guid>
+      <guid>https://mauriciotosi.github.io/PIClab/equipos/horno-de-oxidacion/</guid>
       <description>Historial de oxidaciones 26/10/2018 Realizamos el proceso de oxidación en el horno de solar de 25 obleas DSP (double side polished) de silicio . Utilizamos la siguiente receta diseñada para conseguir 400nm de SiO2:
    Etapa Temp [°C] Tiempo [m] N2 [l/min] O2 [l/min] Obs     1 700 50 1 0    2 700 10 1 0    3 1190 40 2 2 entran las 25 obleas   4 1190 240 0 4 oxidación   5 700 60 1 0 enfriamiento    Luego medimos en el elipsómetro utilizando el modelo prediseñado SiO2 (200-1000A) on Si.</description>
     </item>

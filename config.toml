@@ -1,4 +1,4 @@
-baseURL = "https://mauriciotosi.github.io"
+baseURL = "https://mauriciotosi.github.io/PIClab"
 title = "Laboratorio"
 theme = "engimo"
 publishDir = "docs"
