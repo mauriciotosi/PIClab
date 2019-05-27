@@ -51,7 +51,7 @@ enable = true
 [params.widgets]
 homepage = ["recent_posts"]
 sidebar = ["about","sidebar_menu"]
-footer = []
+footer = ["social_menu"]
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
@@ -59,6 +59,7 @@ titleSeparator = "•"
 
 [params.social]
 email = "mauriciotosi@cnea.gov.ar"
+github = "mauriciotosi/PIClab"
 
 [params.comments]
 enable = false
