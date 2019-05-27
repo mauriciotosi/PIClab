@@ -1,0 +1,133 @@
+baseURL = "https://mauriciotosi.github.io"
+title = "Laboratorio"
+theme = "engimo"
+publishDir = "docs"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+Paginate = 10
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "es"
+
+[params.info]
+description = "Apuntes, Recetas e Historial de muestras"
+title404 = "Nothing's here!"
+
+[params.assets]
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+#[params.copyright]
+#prefix = ""
+#holder = "MT"
+#startYear = "2018"
+#suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+showReadingTime = false
+taxonomyCloudShuffle = false
+accentColor = "#44ccff"
+hideMainMenu = false
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+homepage = ["recent_posts"]
+sidebar = ["about","sidebar_menu"]
+footer = []
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+email = "mauriciotosi@cnea.gov.ar"
+
+[params.comments]
+enable = false
+
+[params.comments.staticman]
+enable = true
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
+
+[params.search]
+client = "lunr" # algolia / fuse / lunr
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params.search.algolia]
+appId = ""
+indexName = ""
+searchApiKey = ""
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+[[menu.main]]
+name = "Muestras"
+weight = -100
+identifier = "muestras"
+url = "/muestras/"
+
+[[menu.main]]
+name = "Equipos"
+weight = -10
+identifier = "equipos"
+url = "/equipos/"
+
+[[menu.main]]
+name = "Recetas"
+weight = -1
+identifier = "recetas"
+url = "/recetas/"
+
+[[menu.main]]
+name = "Obleas"
+weight = -40
+identifier = "obleas"
+url = "/obleas/"
+
+[[menu.main]]
+name = "Procesos"
+weight = -5
+identifier = "procesos"
+url = "/procesos/"
+
+[blackfriday]
+hrefTargetBlank = true
+
+
+[languages.es]
+lang = "es"
+languageName = "Spanish"
+weight = 1
+
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recetas on Laboratorio</title>
+    <link>https://mauriciotosi.github.io/recetas/</link>
+    <description>Recent content in Recetas on Laboratorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mauriciotosi.github.io/recetas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AZ1518 (4:3)</title>
+      <link>https://mauriciotosi.github.io/recetas/az1518/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/az1518/</guid>
+      <description>   Proceso Caracteristica Tiempo     Deposito (spin coat) 4000 RPM (receta 21) 2:30 min   Post-cocido 100°C 45 seg    </description>
+    </item>
+    
+    <item>
+      <title>DWL: Mapa de Exposición</title>
+      <link>https://mauriciotosi.github.io/recetas/dwl-mapa-exp/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/dwl-mapa-exp/</guid>
+      <description>   Propiedad Valor     Field width 5000   Field height 5000   Alignment site X 0   Alignment site Y 0   Fields per row 3,9,11,13,15,17,17,17,19,19,19,17,17,17,15,13,11,9,3   Fields start at X (mult por 1000) 40,25,20,15,10,5,5,5,0,0,0,5,5,5,10,15,20,25,40   Field zero 131    </description>
+    </item>
+    
+    <item>
+      <title>Ti Prime</title>
+      <link>https://mauriciotosi.github.io/recetas/ti-prime/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/ti-prime/</guid>
+      <description>   Proceso Caracteristica Tiempo     Preparacion del substrato 120°C 20 min   Deposito (spin coat) 4000 RPM (receta 17) 30 seg   Post-cocido 120°C 2 min    </description>
+    </item>
+    
+    <item>
+      <title>Limpieza RCA</title>
+      <link>https://mauriciotosi.github.io/recetas/ra1-y-ra2/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/ra1-y-ra2/</guid>
+      <description>Estándar de limpieza RCA  RCA1: se utiliza para remover partículas y residuos orgánicos en obleas de silicio. RAC2: se utiliza para remover iones metálicos en el wafer.   RCA1 La receta para elaborar RCA1 consiste en 5 partes de agua DI, 1 parte de hidróxido de amonio (NH$_4$OH) al 27% y 1 parte de peróxido de hidrógeno (H$_2$O$_2$) al 30%.
+Procedimiento En primer lugar se coloca el agua DI en un recipiente de Pyrex.</description>
+    </item>
+    
+  </channel>
+</rss>

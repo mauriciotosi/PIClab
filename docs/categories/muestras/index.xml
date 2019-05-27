@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muestras on Laboratorio</title>
+    <link>https://mauriciotosi.github.io/categories/muestras/</link>
+    <description>Recent content in Muestras on Laboratorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mauriciotosi.github.io/categories/muestras/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Muestra sobre Si: S2</title>
+      <link>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s2/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s2/</guid>
+      <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
+Limpieza Limpieza con acetona, isopropanol y agua.
+Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
+Se depositó AZ1518(4:3). Previamente realizamos la preparación de la solución AZ1518+EBR y medimos el espesor en una pequeña muestra haciendo litografía con el alineador de máscaras. Obtuvimos un espesor de 580 nm medidos con el perfilómetro de contacto.</description>
+    </item>
+    
+    <item>
+      <title>Muestra sobre Si: S1</title>
+      <link>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s1/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s1/</guid>
+      <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
+Limpieza Como la oblea había sido utilizada previamente en un intento fallido, se limpió con acetona, isopropanol y agua.
+Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
+Se depositó AZ1518(4:3). No se analizó el espesor de la fotoresina, esto no es recomendable porque en otras ocasiones se observó que la solución de AZ1518+EBR se modifica con el tiempo, probablemente por evaporación del solvente.</description>
+    </item>
+    
+    <item>
+      <title>Muestra sobre Si: S0</title>
+      <link>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s0/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s0/</guid>
+      <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
+Limpieza No se realizó ninguna limpieza en particular, solo se removieron las partículas con el aire de N~2~.
+Fotoresina Se depositó AZ1518(4:3). Como resultado no se observa una distribución homogénea de la fotoresina. En el centro vemos que se forma una especie de espiral debido al proceso de spin coating, esto puede ser producto de una aceleración de spineado muy grande.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RIE on Laboratorio</title>
+    <link>https://mauriciotosi.github.io/tags/rie/</link>
+    <description>Recent content in RIE on Laboratorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mauriciotosi.github.io/tags/rie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>D-RIE</title>
+      <link>https://mauriciotosi.github.io/equipos/rie/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/equipos/rie/</guid>
+      <description>Manual de operación básico  La temperatura de trabajo se setea en 15°C.
+ Se carga la muestra. Si la muestra es más chica que una oblea, se utiliza una especie de grasa silicona para mejorar el contacto térmico y se apoya la muestra sobre una oblea de soporte.
+ Para hacer vacío en la precámara primero se pone STOP y luego se evacua.
+ Se selecciona la receta.</description>
+    </item>
+    
+  </channel>
+</rss>

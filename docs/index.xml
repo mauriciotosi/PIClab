@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratorio</title>
+    <link>https://mauriciotosi.github.io/</link>
+    <description>Recent content on Laboratorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mauriciotosi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AZ1518 (4:3)</title>
+      <link>https://mauriciotosi.github.io/recetas/az1518/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/az1518/</guid>
+      <description>   Proceso Caracteristica Tiempo     Deposito (spin coat) 4000 RPM (receta 21) 2:30 min   Post-cocido 100°C 45 seg    </description>
+    </item>
+    
+    <item>
+      <title>DWL: Mapa de Exposición</title>
+      <link>https://mauriciotosi.github.io/recetas/dwl-mapa-exp/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/dwl-mapa-exp/</guid>
+      <description>   Propiedad Valor     Field width 5000   Field height 5000   Alignment site X 0   Alignment site Y 0   Fields per row 3,9,11,13,15,17,17,17,19,19,19,17,17,17,15,13,11,9,3   Fields start at X (mult por 1000) 40,25,20,15,10,5,5,5,0,0,0,5,5,5,10,15,20,25,40   Field zero 131    </description>
+    </item>
+    
+    <item>
+      <title>Ti Prime</title>
+      <link>https://mauriciotosi.github.io/recetas/ti-prime/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/ti-prime/</guid>
+      <description>   Proceso Caracteristica Tiempo     Preparacion del substrato 120°C 20 min   Deposito (spin coat) 4000 RPM (receta 17) 30 seg   Post-cocido 120°C 2 min    </description>
+    </item>
+    
+    <item>
+      <title>Nitruro de Silicio sobre SiO2</title>
+      <link>https://mauriciotosi.github.io/obleas/nitruro-de-silicio-sobre-sio2-01/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/obleas/nitruro-de-silicio-sobre-sio2-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PECVD</title>
+      <link>https://mauriciotosi.github.io/equipos/pecvd/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/equipos/pecvd/</guid>
+      <description>Historial de depósitos 04/12/2018 Realizamos el primer depósito de nitruro de silicio sobre cuatro obleas con 440nm de óxido de silicio. Utilizamos la receta brindada por el fabricante:
+   Nombre Valor     Cload position 40   Ctune position 40   DriveMatch 1   Process pressure 650   RF setpoint 30   Stabilisation time 15   Steptime [m] 33   2%SiH4 2000   NH3 40    Con esta receta, según el fabricante, la velocidad del depósito es de 9.</description>
+    </item>
+    
+    <item>
+      <title>Limpieza RCA</title>
+      <link>https://mauriciotosi.github.io/recetas/ra1-y-ra2/</link>
+      <pubDate>Mon, 03 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/recetas/ra1-y-ra2/</guid>
+      <description>Estándar de limpieza RCA  RCA1: se utiliza para remover partículas y residuos orgánicos en obleas de silicio. RAC2: se utiliza para remover iones metálicos en el wafer.   RCA1 La receta para elaborar RCA1 consiste en 5 partes de agua DI, 1 parte de hidróxido de amonio (NH$_4$OH) al 27% y 1 parte de peróxido de hidrógeno (H$_2$O$_2$) al 30%.
+Procedimiento En primer lugar se coloca el agua DI en un recipiente de Pyrex.</description>
+    </item>
+    
+    <item>
+      <title>Horno de oxidación</title>
+      <link>https://mauriciotosi.github.io/equipos/horno-de-oxidacion/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/equipos/horno-de-oxidacion/</guid>
+      <description>Historial de oxidaciones 26/10/2018 Realizamos el proceso de oxidación en el horno de solar de 25 obleas DSP (double side polished) de silicio . Utilizamos la siguiente receta diseñada para conseguir 400nm de SiO2:
+   Etapa Temp [°C] Tiempo [m] N2 [l/min] O2 [l/min] Obs     1 700 50 1 0    2 700 10 1 0    3 1190 40 2 2 entran las 25 obleas   4 1190 240 0 4 oxidación   5 700 60 1 0 enfriamiento    Luego medimos en el elipsómetro utilizando el modelo prediseñado SiO2 (200-1000A) on Si.</description>
+    </item>
+    
+    <item>
+      <title>D-RIE</title>
+      <link>https://mauriciotosi.github.io/equipos/rie/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/equipos/rie/</guid>
+      <description>Manual de operación básico  La temperatura de trabajo se setea en 15°C.
+ Se carga la muestra. Si la muestra es más chica que una oblea, se utiliza una especie de grasa silicona para mejorar el contacto térmico y se apoya la muestra sobre una oblea de soporte.
+ Para hacer vacío en la precámara primero se pone STOP y luego se evacua.
+ Se selecciona la receta.</description>
+    </item>
+    
+    <item>
+      <title>Asher</title>
+      <link>https://mauriciotosi.github.io/equipos/asher/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/equipos/asher/</guid>
+      <description>Manual de operación básico  Cerramos la cámara.
+ Activamos SOFT VACUUM.
+ Activamos MAIN VACUUM.
+ Iniciamos los dos gases.
+ Regulamos el flujo para que la presión se mantenga cercana a 2.
+ Prendemos la lámpara 1 y 2.
+ Luego de 10 segundos prendemos la señal de RF.
+ Luego de otros 10 segundos apagamos las lámparas.
+ Luego de 1 minuto aproximadamente apagamos la señal de RF.</description>
+    </item>
+    
+    <item>
+      <title>Elipsómetro</title>
+      <link>https://mauriciotosi.github.io/equipos/elipsometro/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/equipos/elipsometro/</guid>
+      <description>Elipsómetro Encendido: Para no tener problemas con el encendido de equipo, prender primero la fuente, esperar unos minutos y encender la computadora. Cuando se abre el programa de AutoSoft se tienen que escuchar el testing de los motores.
+A continuación se indican los pasos a seguir con el objetivo de medir con el elipsómetro en varios puntos de forma automática:
+ en el menú principal del AutoSoft (donde se setea el foco) mover los motores a la posición de loading.</description>
+    </item>
+    
+    <item>
+      <title>Muestra sobre Si: S2</title>
+      <link>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s2/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s2/</guid>
+      <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
+Limpieza Limpieza con acetona, isopropanol y agua.
+Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
+Se depositó AZ1518(4:3). Previamente realizamos la preparación de la solución AZ1518+EBR y medimos el espesor en una pequeña muestra haciendo litografía con el alineador de máscaras. Obtuvimos un espesor de 580 nm medidos con el perfilómetro de contacto.</description>
+    </item>
+    
+    <item>
+      <title>Muestra sobre Si: S1</title>
+      <link>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s1/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s1/</guid>
+      <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
+Limpieza Como la oblea había sido utilizada previamente en un intento fallido, se limpió con acetona, isopropanol y agua.
+Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
+Se depositó AZ1518(4:3). No se analizó el espesor de la fotoresina, esto no es recomendable porque en otras ocasiones se observó que la solución de AZ1518+EBR se modifica con el tiempo, probablemente por evaporación del solvente.</description>
+    </item>
+    
+    <item>
+      <title>Muestra sobre Si: S0</title>
+      <link>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s0/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/muestras/muestra-sobre-si-s0/</guid>
+      <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
+Limpieza No se realizó ninguna limpieza en particular, solo se removieron las partículas con el aire de N~2~.
+Fotoresina Se depositó AZ1518(4:3). Como resultado no se observa una distribución homogénea de la fotoresina. En el centro vemos que se forma una especie de espiral debido al proceso de spin coating, esto puede ser producto de una aceleración de spineado muy grande.</description>
+    </item>
+    
+  </channel>
+</rss>

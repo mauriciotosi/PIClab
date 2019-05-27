@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PECVD on Laboratorio</title>
+    <link>https://mauriciotosi.github.io/tags/pecvd/</link>
+    <description>Recent content in PECVD on Laboratorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mauriciotosi.github.io/tags/pecvd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PECVD</title>
+      <link>https://mauriciotosi.github.io/equipos/pecvd/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/equipos/pecvd/</guid>
+      <description>Historial de depósitos 04/12/2018 Realizamos el primer depósito de nitruro de silicio sobre cuatro obleas con 440nm de óxido de silicio. Utilizamos la receta brindada por el fabricante:
+   Nombre Valor     Cload position 40   Ctune position 40   DriveMatch 1   Process pressure 650   RF setpoint 30   Stabilisation time 15   Steptime [m] 33   2%SiH4 2000   NH3 40    Con esta receta, según el fabricante, la velocidad del depósito es de 9.</description>
+    </item>
+    
+  </channel>
+</rss>
