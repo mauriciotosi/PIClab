@@ -1,5 +1,5 @@
 ---
-title: Asherrrrr
+title: Asher
 author: Mauricio Tosi
 date: 2018-10-09
 slug: asher
@@ -14,7 +14,7 @@ output:
     toc: true
 
 ---
-# EManual de operación básico
+# Manual de operación básico
 
  1. Cerramos la cámara.
  2. Activamos **SOFT VACUUM**.
