@@ -35,6 +35,6 @@ Realizamos el primer depósito de nitruro de silicio sobre cuatro obleas con 440
 
 Con esta receta, según el fabricante, la velocidad del depósito es de 9.1 nm/min. Por lo tanto se necesitan aproximadamente 33 minutos para obtener el espesor deseado.
 
-    <img src="/images/equipos/pecvd/IMG_20181204_170923.jpg" alt="pecvd" width="300"/>
+<img src="/images/equipos/pecvd/IMG_20181204_170923.jpg" alt="pecvd" width="300"/>
 
 Medimos el espesor de las obleas utilizando el elipsómetro con la receta **SiN (500-10000 A) on SiO2 (500-10000 A) on Si**.
