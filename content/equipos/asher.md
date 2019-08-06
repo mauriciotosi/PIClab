@@ -1,17 +1,18 @@
 ---
-title: Asher
+title: Asherrrr
 author: Mauricio Tosi
-date: '2018-10-09'
+date: 2018-10-09
 slug: asher
 categories:
-  - Asher
+- Asher
 tags:
-  - Asher
-  - Fotoresina
+- Asher
+- Fotoresina
 mathjax: true
 output:
   blogdown::html_page:
     toc: true
+
 ---
 # Manual de operación básico
 
