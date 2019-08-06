@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Asher on Laboratorio</title>
+    <link>https://mauriciotosi.github.io/PIClab/tags/asher/</link>
+    <description>Recent content in Asher on Laboratorio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/asher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asherrrrr</title>
+      <link>https://mauriciotosi.github.io/PIClab/equipos/asher/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/equipos/asher/</guid>
+      <description>EManual de operación básico  Cerramos la cámara. Activamos SOFT VACUUM. Activamos MAIN VACUUM. Iniciamos los dos gases. Regulamos el flujo para que la presión se mantenga cercana a 2. Prendemos la lámpara 1 y 2. Luego de 10 segundos prendemos la señal de RF. Luego de otros 10 segundos apagamos las lámparas. Luego de 1 minuto aproximadamente apagamos la señal de RF. Apagamos los gases y el vacío. Venteamos la cámara.</description>
+    </item>
+    
+  </channel>
+</rss>
