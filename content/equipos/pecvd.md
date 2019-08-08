@@ -37,6 +37,10 @@ Con esta receta, según el fabricante, la velocidad del depósito es de 9.1 nm/m
 
 <img src="/PIClab/images/equipos/pecvd/IMG_20181204_170923.jpg" alt="pecvd" width="300"/>
 
-![](/images/equipos/pecvd/IMG_20181204_170923.jpg)
+<img src="PIClab/images/equipos/pecvd/IMG_20181204_170923.jpg" alt="pecvd" width="300"/>
+
+<img src="/images/equipos/pecvd/IMG_20181204_170923.jpg" alt="pecvd" width="300"/>
+
+<img src="images/equipos/pecvd/IMG_20181204_170923.jpg" alt="pecvd" width="300"/>
 
 Medimos el espesor de las obleas utilizando el elipsómetro con la receta **SiN (500-10000 A) on SiO2 (500-10000 A) on Si**.
