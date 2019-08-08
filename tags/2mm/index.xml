@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DWL on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/PIClab/categories/dwl/</link>
-    <description>Recent content in DWL on Laboratorio</description>
+    <title>2mm on Laboratorio</title>
+    <link>https://mauriciotosi.github.io/PIClab/tags/2mm/</link>
+    <description>Recent content in 2mm on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 08 Aug 2019 03:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/PIClab/categories/dwl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/2mm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
 Limpieza Previamente se había utilizado la oblea en otras pruebas con el cabezal de 10mm, para remover la fotoresina limpiamos con acetona, isopropanol y agua.
 Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
 Se depositó AZ1518(4:3). Realizamos la preparación de la solución AZ1518+EBR en el momento con pipetas pasteur: 4ml de az1518 y 3ml de ebr (los 7ml alcanzaron para 2 obleas).</description>
-    </item>
-    
-    <item>
-      <title>DWL: Mapa de Exposición</title>
-      <link>https://mauriciotosi.github.io/PIClab/recetas/dwl-mapa-exp/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/recetas/dwl-mapa-exp/</guid>
-      <description>   Propiedad Valor     Field width 5000   Field height 5000   Alignment site X 0   Alignment site Y 0   Fields per row 3,9,11,13,15,17,17,17,19,19,19,17,17,17,15,13,11,9,3   Fields start at X (mult por 1000) 40,25,20,15,10,5,5,5,0,0,0,5,5,5,10,15,20,25,40   Field zero 131    </description>
     </item>
     
   </channel>
