@@ -1,14 +1,15 @@
 ---
 title: 'Muestra sobre Si: S2'
 author: Mauricio Tosi
-date: '2018-10-09'
+date: 2018-10-09
 slug: muestra-sobre-si-s2
 categories:
-  - Muestras
+- Muestras
 tags: []
 mathjax: true
----
+draft: true
 
+---
 Sobre una oblea de Si <100> de 4" realizamos el siguiente proceso:
 
 ### Limpieza
@@ -25,15 +26,13 @@ Como resultado no se observa una distribución homogénea de la fotoresina. En e
 
 ### Litografía
 
-Utilizamos el masterizador con el cabezal de 10mm. Con la configuración del [mapa de exposición](/recetas/dwl-mapa-exp) para obleas de 4". 
+Utilizamos el masterizador con el cabezal de 10mm. Con la configuración del [mapa de exposición](/recetas/dwl-mapa-exp) para obleas de 4".
 
 El foco sobre la oblea es de 5436.
 
 El trabajo realizado es el siguiente:
 
-
-
-<img src="/images/muestras/muestra-sobre-si-s2/muestra2_mapa.png" width="700"/>
+<img src="/PIClab/images/muestras/muestra-sobre-si-s2/muestra2_mapa.png" width="700"/>
 
 Utilizamos el archivo GDSII de calibración para el cabezal de 10mm tanto en campo oscuro como en campo claro.
 
@@ -41,7 +40,7 @@ El tiempo total de exposición de toda la oblea fue de **2:40 hrs**
 
 La oblea la clivamos en cuatro partes como se muestra a continuación
 
-<img src="/images/muestras/muestra-sobre-si-s2/muestra2.png" width="400"/>
+<img src="/PIClab/images/muestras/muestra-sobre-si-s2/muestra2.png" width="400"/>
 
 ### Revelado
 
@@ -51,8 +50,7 @@ Revelamos los cuadrantes **C1** (campo oscuro) y **C3** (campo claro) un total d
 
 A continuación se muestran capturas de las estructuras en cada cuadrante.
 
-<img src="/images/muestras/muestra-sobre-si-s2/c1_field_n.png" width="300"/> <img src="/images/muestras/muestra-sobre-si-s2/c2_field_n.png" width="300"/> <img src="/images/muestras/muestra-sobre-si-s2/c3_field_n.png" width="300"/> <img src="/images/muestras/muestra-sobre-si-s2/c4_field_n.png" width="300"/>
-
+<img src="/PIClab/images/muestras/muestra-sobre-si-s2/c1_field_n.png" width="300"/> <img src="/PIClab/images/muestras/muestra-sobre-si-s2/c2_field_n.png" width="300"/> <img src="/PIClab/images/muestras/muestra-sobre-si-s2/c3_field_n.png" width="300"/> <img src="/PIClab/images/muestras/muestra-sobre-si-s2/c4_field_n.png" width="300"/>
 
 ### RIE
 
@@ -62,12 +60,10 @@ La fotoresina se removió con el [ASHER](/equipos/asher) durante 1 minuto.
 
 Los escalones obtenidos se presentan en la siguiente tabla
 
-| Muestra |	Tiempo de ataque    |	Escalón de Si |
-|:--------|:--------------------|:--------------|
-| C2      |	25 segundos	        | 500 nm        |
-| C3      |	35 segundos	        | 400 nm        |
-| C4      |	45 segundos         |	200 nm        |
+| Muestra | Tiempo de ataque | Escalón de Si |
+| :--- | :--- | :--- |
+| C2 | 25 segundos | 500 nm |
+| C3 | 35 segundos | 400 nm |
+| C4 | 45 segundos | 200 nm |
 
-<img src="/images/muestras/muestra-sobre-si-s2/figure-html/unnamed-chunk-1-1.png" alt="rie" width="700"/>
-
-
+<img src="/PIClab/images/muestras/muestra-sobre-si-s2/figure-html/unnamed-chunk-1-1.png" alt="rie" width="700"/>
