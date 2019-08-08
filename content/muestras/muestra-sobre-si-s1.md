@@ -1,14 +1,15 @@
 ---
 title: 'Muestra sobre Si: S1'
 author: Mauricio Tosi
-date: '2018-09-27'
+date: 2018-09-27
 slug: muestra-sobre-si-s1
 categories:
-  - Muestras
+- Muestras
 tags: []
 mathjax: true
----
+draft: true
 
+---
 Sobre una oblea de Si <100> de 4" realizamos el siguiente proceso:
 
 ### Limpieza
@@ -25,13 +26,13 @@ Como resultado no se observa una distribución homogénea de la fotoresina. En e
 
 ### Litografía
 
-Utilizamos el masterizador con el cabezal de 10mm. Con la configuración del [mapa de exposición](/recetas/dwl-mapa-exp) para obleas de 4". 
+Utilizamos el masterizador con el cabezal de 10mm. Con la configuración del [mapa de exposición](/recetas/dwl-mapa-exp) para obleas de 4".
 
 El foco sobre la oblea es de 5480.
 
 El trabajo realizado es el siguiente:
 
-<img src="/images/muestras/muestra-sobre-si-s1/muestra2_mapa.png" alt="mapaexp" width="700"/>
+<img src="/PIClab/images/muestras/muestra-sobre-si-s1/muestra2_mapa.png" alt="mapaexp" width="700"/>
 
 Utilizamos el archivo GDSII de calibración para el cabezal de 10mm tanto en campo oscuro como en campo claro.
 
@@ -43,14 +44,12 @@ Utilizamos AZ400 en una preparación 1:4 con agua DI.
 
 El tiempo de revelado fue de 10 segundos.
 
-Se enjuagó con agua suavemente para evitar el desprendimiento de la fotoresina. 
+Se enjuagó con agua suavemente para evitar el desprendimiento de la fotoresina.
 
-<img src="/images/muestras/muestra-sobre-si-s1/CAL_CO_E100_0012.jpg" alt="mapaexp" width="400"/>
-
+<img src="/PIClab/images/muestras/muestra-sobre-si-s1/CAL_CO_E100_0012.jpg" alt="mapaexp" width="400"/>
 
 ### RIE
 
-El ataque por [RIE](/equipos/rie) se realizó con la receta PICshallowEtched y se atacó un total de 1:30 (un minuto y treinta segundos). 
+El ataque por [RIE](/equipos/rie) se realizó con la receta PICshallowEtched y se atacó un total de 1:30 (un minuto y treinta segundos).
 
 Como resultado se obtuvo un escalón de 1.4 µm.
-
