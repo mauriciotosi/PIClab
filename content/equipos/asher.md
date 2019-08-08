@@ -12,9 +12,10 @@ mathjax: true
 output:
   blogdown::html_page:
     toc: true
+draft: true
 
 ---
-# Manual de operación básico
+# Apuntes de operación básico
 
  1. Cerramos la cámara.
  2. Activamos **SOFT VACUUM**.
