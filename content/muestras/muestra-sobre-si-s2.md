@@ -7,7 +7,6 @@ categories:
 - Muestras
 tags: []
 mathjax: true
-draft: true
 
 ---
 Sobre una oblea de Si <100> de 4" realizamos el siguiente proceso:
