@@ -14,6 +14,7 @@ mathjax: true
 output:
   blogdown::html_page:
     toc: true
+draft: true
 
 ---
 # Historial de oxidaciones
@@ -38,9 +39,7 @@ Luego medimos en el elipsómetro utilizando el modelo prediseñado **SiO2 (200-1
 | 2 | 5 | 412 | 416 | 409 | 3 |
 | 3 | 5 | 406 | 409 | 404 | 2 |
 
-<img src="/images/equipos/horno-de-oxidacion/obleas.jpg" alt="horno" width="300"/>
-
-![](/images/equipos/horno-de-oxidacion/obleas.jpg)
+<img src="/PIClab/images/equipos/horno-de-oxidacion/obleas.jpg" alt="horno" width="300"/>
 
 ***
 
