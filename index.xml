@@ -105,17 +105,5 @@ A continuación se indican los pasos a seguir con el objetivo de medir con el el
  en el menú principal del AutoSoft (donde se setea el foco) mover los motores a la posición de loading.</description>
     </item>
     
-    <item>
-      <title>Muestra sobre Si: S2</title>
-      <link>https://mauriciotosi.github.io/PIClab/muestras/muestra-sobre-si-s2/</link>
-      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/muestras/muestra-sobre-si-s2/</guid>
-      <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
-Limpieza Limpieza con acetona, isopropanol y agua.
-Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
-Se depositó AZ1518(4:3). Previamente realizamos la preparación de la solución AZ1518+EBR y medimos el espesor en una pequeña muestra haciendo litografía con el alineador de máscaras. Obtuvimos un espesor de 580 nm medidos con el perfilómetro de contacto.</description>
-    </item>
-    
   </channel>
 </rss>
