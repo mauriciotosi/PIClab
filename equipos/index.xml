@@ -30,16 +30,5 @@
    Etapa Temp [°C] Tiempo [m] N2 [l/min] O2 [l/min] Obs     1 700 50 1 0    2 700 10 1 0    3 1190 40 2 2 entran las 25 obleas   4 1190 240 0 4 oxidación   5 700 60 1 0 enfriamiento    Luego medimos en el elipsómetro utilizando el modelo prediseñado SiO2 (200-1000A) on Si.</description>
     </item>
     
-    <item>
-      <title>Elipsómetro</title>
-      <link>https://mauriciotosi.github.io/PIClab/equipos/elipsometro/</link>
-      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/equipos/elipsometro/</guid>
-      <description>Notas Encendido: Para no tener problemas con el encendido de equipo, prender primero la fuente, esperar unos minutos y encender la computadora. Cuando se abre el programa de AutoSoft se tienen que escuchar el testing de los motores.
-A continuación se indican los pasos a seguir con el objetivo de medir con el elipsómetro en varios puntos de forma automática:
- en el menú principal del AutoSoft (donde se setea el foco) mover los motores a la posición de loading.</description>
-    </item>
-    
   </channel>
 </rss>
