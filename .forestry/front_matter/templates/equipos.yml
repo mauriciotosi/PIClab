@@ -35,4 +35,5 @@ fields:
       name: toc
       label: toc
 pages:
+- content/muestras/dwl-w-2mm-sobre-sin-01.md
 - content/recetas/rca1-y-rca2.md
