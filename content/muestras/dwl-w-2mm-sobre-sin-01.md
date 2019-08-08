@@ -27,7 +27,7 @@ Se depositó [AZ1518](/PIClab/recetas/az1518)(4:3). Realizamos la preparación d
 
 Utilizamos el masterizador con el cabezal de 2mm. Con la configuración del [mapa de exposición](/PIClab/recetas/dwl-mapa-exp) para obleas de 4".
 
-El foco sobre la oblea es de 5436.
+El foco sobre la oblea es de -5436.
 
 El trabajo realizado es el siguiente:
 
