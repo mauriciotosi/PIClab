@@ -1,20 +1,21 @@
 ---
 title: Elipsómetro
 author: Mauricio Tosi
-date: '2018-10-09'
+date: 2018-10-09
 slug: elipsometro
 categories:
-  - Caracterizacion
+- Caracterizacion
 tags:
-  - Espesor
-  - Elipsometro
-  - Film
+- Espesor
+- Elipsometro
+- Film
 mathjax: true
 output:
   blogdown::html_page:
     toc: true
----
+draft: true
 
+---
 # Notas
 
 **Encendido:** Para no tener problemas con el encendido de equipo, prender primero la fuente, esperar unos minutos y encender la computadora. Cuando se abre el programa de **AutoSoft** se tienen que escuchar el testing de los motores.
