@@ -1,0 +1,36 @@
+---
+label: Equipos
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: slug
+  label: slug
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: boolean
+  name: mathjax
+  label: mathjax
+- type: field_group
+  name: output
+  label: output
+  fields:
+  - type: field_group
+    name: blogdown::html_page
+    label: blogdown::html_page
+    fields:
+    - type: boolean
+      name: toc
+      label: toc
