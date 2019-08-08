@@ -34,3 +34,5 @@ fields:
     - type: boolean
       name: toc
       label: toc
+pages:
+- content/recetas/rca1-y-rca2.md

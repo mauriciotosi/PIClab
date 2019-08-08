@@ -1,17 +1,21 @@
 ---
 title: Limpieza RCA
 author: Mauricio Tosi
-date: '2018-12-03'
+date: 2018-12-03
 slug: ra1-y-ra2
 categories:
-  - Limpieza
+- Limpieza
 tags:
-  - RCA
-  - Piranha
-  - limpieza
-  - HF
----
+- RCA
+- Piranha
+- limpieza
+- HF
+mathjax: true
+output:
+  blogdown::html_page:
+    toc: false
 
+---
 # Estándar de limpieza RCA
 
 - RCA1: se utiliza para remover partículas y residuos orgánicos en obleas de silicio.
