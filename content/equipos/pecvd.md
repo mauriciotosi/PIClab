@@ -13,7 +13,6 @@ mathjax: true
 output:
   blogdown::html_page:
     toc: true
-draft: true
 
 ---
 # Historial de depósitos
