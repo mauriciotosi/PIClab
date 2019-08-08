@@ -12,6 +12,7 @@ mathjax: true
 output:
   blogdown::html_page:
     toc: true
+draft: true
 
 ---
 # Apuntes de operación básico
