@@ -17,15 +17,15 @@ Limpieza con acetona, isopropanol y agua.
 
 ### Fotoresina
 
-Se depositó [Ti Prime](/recetas/ti-prime) para mejorar la adherencia de la fotoresina.
+Se depositó [Ti Prime](/PIClab/recetas/ti-prime) para mejorar la adherencia de la fotoresina.
 
-Se depositó [AZ1518](/recetas/az1518)(4:3). Previamente realizamos la preparación de la solución AZ1518+EBR y medimos el espesor en una pequeña muestra haciendo litografía con el alineador de máscaras. Obtuvimos un espesor de 580 nm medidos con el perfilómetro de contacto.
+Se depositó [AZ1518](/PIClab/recetas/az1518)(4:3). Previamente realizamos la preparación de la solución AZ1518+EBR y medimos el espesor en una pequeña muestra haciendo litografía con el alineador de máscaras. Obtuvimos un espesor de 580 nm medidos con el perfilómetro de contacto.
 
 Como resultado no se observa una distribución homogénea de la fotoresina. En el centro vemos que se forma una especie de espiral debido al proceso de spin coating, esto puede ser producto de una aceleración de spineado muy grande.
 
 ### Litografía
 
-Utilizamos el masterizador con el cabezal de 10mm. Con la configuración del [mapa de exposición](/recetas/dwl-mapa-exp) para obleas de 4".
+Utilizamos el masterizador con el cabezal de 10mm. Con la configuración del [mapa de exposición](/PIClab/recetas/dwl-mapa-exp) para obleas de 4".
 
 El foco sobre la oblea es de 5436.
 
@@ -53,9 +53,9 @@ A continuación se muestran capturas de las estructuras en cada cuadrante.
 
 ### RIE
 
-El ataque por [RIE](/equipos/rie) se realizó con la receta PICshallowEtched y se atacaron los cuadrantes C2, C3 y C4 un total de 25, 35 y 45 segundos respectivamente.
+El ataque por [RIE](/PIClab/equipos/rie) se realizó con la receta PICshallowEtched y se atacaron los cuadrantes C2, C3 y C4 un total de 25, 35 y 45 segundos respectivamente.
 
-La fotoresina se removió con el [ASHER](/equipos/asher) durante 1 minuto.
+La fotoresina se removió con el [ASHER](/PIClab/equipos/asher) durante 1 minuto.
 
 Los escalones obtenidos se presentan en la siguiente tabla
 
