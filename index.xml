@@ -11,6 +11,18 @@
     
     
     <item>
+      <title>DWL w/2mm sobre SiN 01</title>
+      <link>https://mauriciotosi.github.io/PIClab/muestras/2mmsin01/</link>
+      <pubDate>Thu, 08 Aug 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/muestras/2mmsin01/</guid>
+      <description>Utilizamos una oblea del batch de obleas nitruradas Oblea. Proceso:
+Limpieza Previamente se había utilizado la oblea en otras pruebas con el cabezal de 10mm, para remover la fotoresina limpiamos con acetona, isopropanol y agua.
+Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
+Se depositó AZ1518(4:3). Realizamos la preparación de la solución AZ1518+EBR en el momento con pipetas pasteur: 4ml de az1518 y 3ml de ebr (los 7ml alcanzaron para 2 obleas).</description>
+    </item>
+    
+    <item>
       <title>Layout de calibración para WH de 2mm</title>
       <link>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mm/</link>
       <pubDate>Thu, 08 Aug 2019 03:00:00 +0000</pubDate>
