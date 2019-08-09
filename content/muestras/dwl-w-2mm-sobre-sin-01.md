@@ -2,6 +2,7 @@
 author = "MT"
 categories = ["DWL"]
 date = "2019-08-08T03:00:00+00:00"
+draft = true
 mathjax = true
 slug = "2mmSiN01"
 tags = ["2mm", "Fotolitografía", "SiN", "DWL"]
@@ -43,5 +44,3 @@ El tiempo total de exposición de toda la oblea fue de **5:00 hrs**
 Para revelar utilizamos **AZ351** en una solución 1:3 con agua DI.
 
 Revelamos un total de 20 segundos.
-
-A continuación se muestran capturas de las estructuras en cada cuadrante.
