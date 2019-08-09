@@ -28,7 +28,7 @@ Se depositó AZ1518(4:3). Realizamos la preparación de la solución AZ1518+EBR 
       <pubDate>Thu, 08 Aug 2019 03:00:00 +0000</pubDate>
       
       <guid>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mm/</guid>
-      <description></description>
+      <description>Layout completo El diseño tiene $1\times1,$mm$^2$. Está formado por líneas para medición y para analizar la resolución tanto en campo claro como campo oscuro. Lineas de medición Consisten en dos bloques, el primero tiene lineas que van de 1µm a 10µm con un paso de 1µm. La separación entre los centros es de 20µm para facilitar la medición. El segundo bloque son lineas de 600nm a 1µm con un paso de 100nm (se repite 4 veces) también con separación de 20µm EC.</description>
     </item>
     
     <item>
