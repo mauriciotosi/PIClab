@@ -34,7 +34,7 @@ El trabajo realizado es el siguiente:
 
 <img src="/PIClab/images/MExp_08Agosto2019.png" width="700"/>
 
-Utilizamos el [archivo GDSII](/PIClab/gdsii/PICcal2mm) de calibración para el cabezal de 2mm con distintas correcciones de spot (N500: -500nm y P500: +500nm).
+Utilizamos el [archivo GDSII](/PIClab/diseños/PICcal2mm) de calibración para el cabezal de 2mm con distintas correcciones de spot (N500: -500nm y P500: +500nm).
 
 El tiempo total de exposición de toda la oblea fue de **5:00 hrs**
 
