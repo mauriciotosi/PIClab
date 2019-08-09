@@ -5,10 +5,19 @@
     <link>https://mauriciotosi.github.io/PIClab/</link>
     <description>Recent content on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mauriciotosi.github.io/PIClab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Estructuras de calibración para cabezal de 2mm</title>
+      <link>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mm/</link>
+      <pubDate>Thu, 08 Aug 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mm/</guid>
+      <description>Archivo</description>
+    </item>
     
     <item>
       <title>AZ1518 (4:3)</title>
