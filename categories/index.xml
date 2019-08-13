@@ -100,5 +100,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>batch</title>
+      <link>https://mauriciotosi.github.io/PIClab/categories/batch/</link>
+      <pubDate>Wed, 01 Aug 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/categories/batch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wafer</title>
+      <link>https://mauriciotosi.github.io/PIClab/categories/wafer/</link>
+      <pubDate>Wed, 01 Aug 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/categories/wafer/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

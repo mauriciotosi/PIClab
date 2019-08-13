@@ -20,5 +20,14 @@
    Etapa Temp [°C] Tiempo [m] N2 [l/min] O2 [l/min] Obs     1 700 50 1 0    2 700 10 1 0    3 1190 40 2 2 entran las 25 obleas   4 1190 240 0 4 oxidación   5 700 60 1 0 enfriamiento    Luego medimos en el elipsómetro utilizando el modelo prediseñado SiO2 (200-1000A) on Si.</description>
     </item>
     
+    <item>
+      <title>Obleas con Óxido Térmico 01</title>
+      <link>https://mauriciotosi.github.io/PIClab/obleas/batchthermalsio01/</link>
+      <pubDate>Wed, 01 Aug 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/obleas/batchthermalsio01/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
