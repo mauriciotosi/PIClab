@@ -65,7 +65,7 @@ Realizamos un ataque por **RIE** a la [Muestra 01](/PIClab/muestras/muestra-sobr
 
 ## _16/10/2018_
 
-Realizamos tres ataques por **RIE** a las Muestras 02: C2, C3 y C4. La receta utilizada es **PICshallowEtch** y se atacó cada cuadrante un total de 25, 35 y 45 segundos respectivamente. El perfil se midió con el perfilómetro de contacto y se obtuvieron los resultados de la siguiente tabla:
+Realizamos tres ataques por **RIE** a las [Muestras 02](/PIClab/muestras/muestra-sobre-si-s2): C2, C3 y C4. La receta utilizada es **PICshallowEtch** y se atacó cada cuadrante un total de 25, 35 y 45 segundos respectivamente. El perfil se midió con el perfilómetro de contacto y se obtuvieron los resultados de la siguiente tabla:
 
 | Muestra | Tiempo de ataque | Escalón de Si |
 | :---: | :---: | :---: |
