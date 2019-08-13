@@ -10,7 +10,7 @@ title = "DWL WH2mm sobre SiN: P1"
 toc = false
 
 +++
-Utilizamos una oblea del batch de obleas nitruradas [Oblea](/PIClab/obleas/sin_wo_annealing). Proceso:
+Utilizamos una oblea del batch de obleas nitruradas [Oblea](/PIClab/obleas/nitruro-de-silicio-sobre-sio2-01). Proceso:
 
 ### Limpieza
 
