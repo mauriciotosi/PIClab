@@ -431,6 +431,11 @@
   </url>
   
   <url>
+    <loc>https://mauriciotosi.github.io/PIClab/procesos/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mauriciotosi.github.io/PIClab/series/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -443,6 +448,10 @@
                 hreflang="es"
                 href="https://mauriciotosi.github.io/PIClab/series/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/procesos/aaaaa/</loc>
   </url>
   
 </urlset>
