@@ -61,7 +61,7 @@ Cuatro etapas:
 
 ## _08/10/2018_
 
-Realizamos un ataque por **RIE** a la Muestra 01 (oblea de silicio protegida por la AZ1518 (4:3) con fotolitografía con masterizador). La receta utilizada es **PICshallowEtch** y se atacó un total de 1:30 (un minuto y treinta segundos). El perfil se midió con el perfilómetro óptico y se obtuvo un escalón de aproximadamente 1.4 µm (buscábamos atacar un total de 500nm). La fotoresina se removió con el **ASHER**.
+Realizamos un ataque por **RIE** a la [Muestra 01](/PIClab/muestras/muestra-sobre-si-s1) (oblea de silicio protegida por la AZ1518 (4:3) con fotolitografía con masterizador). La receta utilizada es **PICshallowEtch** y se atacó un total de 1:30 (un minuto y treinta segundos). El perfil se midió con el perfilómetro óptico y se obtuvo un escalón de aproximadamente 1.4 µm (buscábamos atacar un total de 500nm). La fotoresina se removió con el **ASHER**.
 
 ## _16/10/2018_
 
