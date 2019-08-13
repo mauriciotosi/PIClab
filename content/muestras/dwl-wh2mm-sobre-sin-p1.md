@@ -10,7 +10,7 @@ title = "DWL WH2mm sobre SiN: P2"
 toc = false
 
 +++
-Utilizamos una segunda oblea del batch de obleas nitruradas [Oblea](/PIClab/obleas/sin_wo_annealing). 
+Utilizamos una segunda oblea del batch de obleas nitruradas [Oblea](/PIClab/obleas/sin_wo_annealing).
 
 ### Limpieza
 
@@ -18,7 +18,7 @@ Limpieza con pistola de N$_2$.
 
 ### Fotoresina
 
-La fotoresina se depositó el 08 de agosto junto con la [muestra 1](/PIClab/muestras/2mmSiN01):
+La fotoresina se depositó el 08 de agosto junto con la [muestra 1](/PIClab/muestras/2mmsin01):
 
 Se depositó [Ti Prime](/PIClab/recetas/ti-prime) para mejorar la adherencia de la fotoresina.
 
