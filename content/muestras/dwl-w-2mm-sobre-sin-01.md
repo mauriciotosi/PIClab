@@ -43,3 +43,9 @@ El tiempo total de exposición de toda la oblea fue de **4:26 hrs** (3 minutos p
 Para revelar utilizamos **AZ351** en una solución 1:3 con agua DI.
 
 Revelamos un total de 20 segundos.
+
+## Resultados
+
+![](/images/MExp_08Agosto2019_res.png)
+
+<img src="/PIClab/images/MExp_08Agosto2019_res.png" width="700"/>
