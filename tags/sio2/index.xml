@@ -5,10 +5,19 @@
     <link>https://mauriciotosi.github.io/PIClab/tags/sio2/</link>
     <description>Recent content in SiO2 on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/sio2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nitruro de Silicio sobre SiO2 con Annealing</title>
+      <link>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</link>
+      <pubDate>Mon, 10 Dec 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Horno de oxidación</title>
@@ -18,15 +27,6 @@
       <guid>https://mauriciotosi.github.io/PIClab/equipos/horno-de-oxidacion/</guid>
       <description>Historial de oxidaciones 26/10/2018 Realizamos el proceso de oxidación en el horno de solar de 25 obleas DSP (double side polished) de silicio . Utilizamos la siguiente receta diseñada para conseguir 400nm de SiO2:
    Etapa Temp [°C] Tiempo [m] N2 [l/min] O2 [l/min] Obs     1 700 50 1 0    2 700 10 1 0    3 1190 40 2 2 entran las 25 obleas   4 1190 240 0 4 oxidación   5 700 60 1 0 enfriamiento    Luego medimos en el elipsómetro utilizando el modelo prediseñado SiO2 (200-1000A) on Si.</description>
-    </item>
-    
-    <item>
-      <title>Nitruro de Silicio sobre SiO2 con Annealing</title>
-      <link>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</link>
-      <pubDate>Wed, 01 Aug 2018 03:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</guid>
-      <description></description>
     </item>
     
     <item>

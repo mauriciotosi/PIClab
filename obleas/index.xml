@@ -5,10 +5,19 @@
     <link>https://mauriciotosi.github.io/PIClab/obleas/</link>
     <description>Recent content in Obleas on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Dec 2018 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mauriciotosi.github.io/PIClab/obleas/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Nitruro de Silicio sobre SiO2 con Annealing</title>
+      <link>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</link>
+      <pubDate>Mon, 10 Dec 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Nitruro de Silicio sobre SiO2</title>
@@ -16,15 +25,6 @@
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://mauriciotosi.github.io/PIClab/obleas/nitruro-de-silicio-sobre-sio2-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nitruro de Silicio sobre SiO2 con Annealing</title>
-      <link>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</link>
-      <pubDate>Wed, 01 Aug 2018 03:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/obleas/batchsinannealing/</guid>
       <description></description>
     </item>
     
