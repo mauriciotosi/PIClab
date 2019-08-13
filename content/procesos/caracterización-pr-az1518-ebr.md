@@ -2,7 +2,6 @@
 author = "MT"
 categories = ["fotoresina"]
 date = "2018-08-01T03:00:00+00:00"
-draft = true
 mathjax = true
 slug = "caracterizacion_az1518"
 tags = ["PR", "ebr", "az1518"]
@@ -55,3 +54,7 @@ Los resultados obtenidos se muestran en la siguiente tabla
 | 4:3 | 42.8 | 550 |
 
 Luego con los valores obtenidos realizamos un ajuste lineal para obtener una relación entre la concentración de EBR y el espesor de fotoresina obtenido:
+
+![](/images/espesor_vs_concentracionEBR.png)
+
+<img src="/PIClab/images/espesor_vs_concentracionEBR.png" width="700"/>
