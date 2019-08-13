@@ -2,7 +2,6 @@
 author = "MT"
 categories = ["DWL"]
 date = "2019-08-12T03:00:00+00:00"
-draft = true
 mathjax = true
 slug = "2mmSiN02"
 tags = ["2mm", "Fotolitografía", "SiN", "DWL"]
