@@ -1,7 +1,7 @@
 +++
 author = "MT"
 categories = ["wafer", "batch"]
-date = "2018-08-01T03:00:00+00:00"
+date = "2018-12-10T03:00:00+00:00"
 mathjax = true
 slug = "batchSiNannealing"
 tags = ["Thermal", "SiO2"]
