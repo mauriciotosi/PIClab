@@ -35,7 +35,6 @@ fields:
       name: toc
       label: toc
 pages:
-- content/procesos/aaaaa.md
 - content/obleas/obleas-con-óxido-térmico-01-2.md
 - content/obleas/obleas-con-óxido-térmico-01.md
 - content/obleas/obleas-con-óxido-térmico-01-1.md
