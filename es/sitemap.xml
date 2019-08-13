@@ -132,6 +132,17 @@
   </url>
   
   <url>
+    <loc>https://mauriciotosi.github.io/PIClab/procesos/az1518/</loc>
+    <lastmod>2019-08-01T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/procesos/</loc>
+    <lastmod>2019-08-01T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mauriciotosi.github.io/PIClab/tags/az1518/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -416,11 +427,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/procesos/caracterizacion-az1518/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mauriciotosi.github.io/PIClab/authors/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -433,11 +439,6 @@
                 hreflang="es"
                 href="https://mauriciotosi.github.io/PIClab/authors/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://mauriciotosi.github.io/PIClab/procesos/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

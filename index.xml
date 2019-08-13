@@ -45,6 +45,15 @@ Se depositó AZ1518(4:3). Realizamos la preparación de la solución AZ1518+EBR 
     </item>
     
     <item>
+      <title>Carac</title>
+      <link>https://mauriciotosi.github.io/PIClab/procesos/az1518/</link>
+      <pubDate>Thu, 01 Aug 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/procesos/az1518/</guid>
+      <description>caracterizacion-AZ1518   /*! * * Twitter Bootstrap * */ /*! * Bootstrap v3.3.7 (http://getbootstrap.com) * Copyright 2011-2016 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */ /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */ html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; } body { margin: 0; } article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; } audio, canvas, progress, video { display: inline-block; vertical-align: baseline; } audio:not([controls]) { display: none; height: 0; } [hidden], template { display: none; } a { background-color: transparent; } a:active, a:hover { outline: 0; } abbr[title] { border-bottom: 1px dotted; } b, strong { font-weight: bold; } dfn { font-style: italic; } h1 { font-size: 2em; margin: 0.</description>
+    </item>
+    
+    <item>
       <title>AZ1518 (4:3)</title>
       <link>https://mauriciotosi.github.io/PIClab/recetas/az1518/</link>
       <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
@@ -199,15 +208,6 @@ Se depositó AZ1518(4:3). No se analizó el espesor de la fotoresina, esto no es
       <description>Sobre una oblea de Si  de 4&amp;rdquo; realizamos el siguiente proceso:
 Limpieza No se realizó ninguna limpieza en particular, solo se removieron las partículas con el aire de N$_2$.
 Fotoresina Se depositó AZ1518(4:3). Como resultado no se observa una distribución homogénea de la fotoresina. En el centro vemos que se forma una especie de espiral debido al proceso de spin coating, esto puede ser producto de una aceleración de spineado muy grande.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mauriciotosi.github.io/PIClab/procesos/caracterizacion-az1518/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/procesos/caracterizacion-az1518/</guid>
-      <description>caracterizacion-AZ1518   /*! * * Twitter Bootstrap * */ /*! * Bootstrap v3.3.7 (http://getbootstrap.com) * Copyright 2011-2016 Twitter, Inc. * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */ /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */ html { font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; } body { margin: 0; } article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; } audio, canvas, progress, video { display: inline-block; vertical-align: baseline; } audio:not([controls]) { display: none; height: 0; } [hidden], template { display: none; } a { background-color: transparent; } a:active, a:hover { outline: 0; } abbr[title] { border-bottom: 1px dotted; } b, strong { font-weight: bold; } dfn { font-style: italic; } h1 { font-size: 2em; margin: 0.</description>
     </item>
     
   </channel>
