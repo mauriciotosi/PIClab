@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AZ1518 on Laboratorio</title>
-    <link>https://mauriciotosi.github.io/PIClab/tags/az1518/</link>
-    <description>Recent content in AZ1518 on Laboratorio</description>
+    <title>Procesos on Laboratorio</title>
+    <link>https://mauriciotosi.github.io/PIClab/procesos/</link>
+    <description>Recent content in Procesos on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Aug 2018 03:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/az1518/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mauriciotosi.github.io/PIClab/procesos/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>AZ1518 (4:3)</title>
-      <link>https://mauriciotosi.github.io/PIClab/recetas/az1518/</link>
-      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/recetas/az1518/</guid>
-      <description>   Proceso Caracteristica Tiempo     Deposito (spin coat) 4000 RPM (receta 21) 2:30 min   Post-cocido 100°C 45 seg    </description>
-    </item>
     
     <item>
       <title>Caracterización PR az1518&#43;EBR</title>

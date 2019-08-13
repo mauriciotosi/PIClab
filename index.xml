@@ -201,5 +201,15 @@ Limpieza No se realizó ninguna limpieza en particular, solo se removieron las p
 Fotoresina Se depositó AZ1518(4:3). Como resultado no se observa una distribución homogénea de la fotoresina. En el centro vemos que se forma una especie de espiral debido al proceso de spin coating, esto puede ser producto de una aceleración de spineado muy grande.</description>
     </item>
     
+    <item>
+      <title>Caracterización PR az1518&#43;EBR</title>
+      <link>https://mauriciotosi.github.io/PIClab/procesos/caracterizacion_az1518/</link>
+      <pubDate>Wed, 01 Aug 2018 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/procesos/caracterizacion_az1518/</guid>
+      <description>Objetivo El objetivo de esta nota es analizar el espesor de fotoresina AZ1518 diluída en distintas concentraciones con EBR.
+Procedimiento  En primer lugar clivamos una oblea de Si (4&amp;rdquo;) en muestras de aproximadamente 2x2cm². Utilizamos un frasco de vidrio limpio donde realizamos la mezcla AZ1518 con EBR en las distintas concentraciones. Medimos la cantidad de fotoresina y solvente con pipetas descartables. Depositamos la fotoresina sobre algunas muestras (una por una) con el spin coating según la siguiente receta:     Proceso Caracteristica Tiempo     Deposito (spin coat) 4000 RPM (receta 21) 2:30 min   Post-cocido 100°C 45 seg     Luego utilizamos el alineador de máscaras para exponer la fotoresina durante 8 segundos con una máscara genérica (matriz de cuadrados del orden de 1mm²).</description>
+    </item>
+    
   </channel>
 </rss>
