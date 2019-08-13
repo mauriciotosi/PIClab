@@ -2,7 +2,6 @@
 author = "MT"
 categories = ["wafer", "batch"]
 date = "2018-08-01T03:00:00+00:00"
-draft = true
 mathjax = true
 slug = "batchthermalSiO01"
 tags = ["Thermal", "SiO2"]
