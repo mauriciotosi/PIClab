@@ -57,4 +57,4 @@ Luego con los valores obtenidos realizamos un ajuste lineal para obtener una rel
 
 ![](/images/espesor_vs_concentracionEBR.png)
 
-<img src="/PIClab/images/espesor_vs_concentracionEBR.png" width="700"/>
+<img src="/PIClab/images/espesor_vs_concentracionEBR.png" width="500"/>
