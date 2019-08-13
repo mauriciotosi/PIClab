@@ -7,7 +7,7 @@ slug = "caracterizacion_az1518"
 tags = ["PR", "ebr", "az1518"]
 title = "Caracterización PR az1518+EBR"
 [output."blogdown::html_page"]
-toc = false
+toc = true
 
 +++
 ## Objetivo
