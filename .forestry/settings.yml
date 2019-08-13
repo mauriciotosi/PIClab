@@ -5,6 +5,13 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/procesos
+  label: Procesos
+  create: all
+  match: "**/*"
+  templates:
+  - equipos
+- type: directory
   path: content/diseños
   label: Diseños
   create: all
