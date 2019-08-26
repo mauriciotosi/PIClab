@@ -18,15 +18,15 @@ El diseño tiene $1\\times1,$mm$^2$. Está formado por líneas para medición y 
 
 # Lineas de medición
 
-Igual que en el [diseño anterior](/PIClab/diseño/piccal2mmv1/)
+Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1#Lineas)
 
 # Lineas de resolución
 
-Igual que en el [diseño anterior](/PIClab/diseño/piccal2mmv1/)
+Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1/)
 
 # Cuadrados y círculos
 
-Igual que en el [diseño anterior](/PIClab/diseño/piccal2mmv1/)
+Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1/)
 
 # Pruebas con acopladores direccionales
 
