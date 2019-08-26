@@ -80,25 +80,25 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/gds/</loc>
-    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://mauriciotosi.github.io/PIClab/tags/gds/</loc>
     <lastmod>2019-08-26T03:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/dwl/</loc>
-    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/gds/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mauriciotosi.github.io/PIClab/tags/dwl/</loc>
+    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/dwl/</loc>
     <lastmod>2019-08-12T03:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -153,13 +153,13 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/litografia/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/litografia/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/tags/litografia/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/litografia/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -240,13 +240,13 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/pecvd/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/pecvd/</loc>
     <lastmod>2018-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/tags/pecvd/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/pecvd/</loc>
     <lastmod>2018-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -354,13 +354,13 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/asher/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/asher/</loc>
     <lastmod>2018-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/tags/asher/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/asher/</loc>
     <lastmod>2018-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
