@@ -1,12 +1,12 @@
 +++
 author = "Mauricio Tosi"
 categories = ["gds"]
-date = "2019-08-08T03:00:00+00:00"
+date = "2019-08-26T03:00:00+00:00"
 draft = true
 mathjax = true
-slug = "PICcal2mm"
+slug = "PICcal2mmv2"
 tags = ["diseño", "gds", "2mm", "calibracion"]
-title = "Layout de calibración para WH de 2mm - V1"
+title = "Layout de calibración para WH de 2mm - V2"
 [output."blogdown::html_page"]
 toc = false
 
