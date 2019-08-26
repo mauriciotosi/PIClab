@@ -5,10 +5,22 @@
     <link>https://mauriciotosi.github.io/PIClab/tags/2mm/</link>
     <description>Recent content in 2mm on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Aug 2019 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2019 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mauriciotosi.github.io/PIClab/tags/2mm/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Layout de calibración para WH de 2mm - V2</title>
+      <link>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mmv2/</link>
+      <pubDate>Mon, 26 Aug 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mmv2/</guid>
+      <description>Layout completo El diseño tiene $1\times1,$mm$^2$. Está formado por líneas para medición y para analizar la resolución tanto en campo claro como campo oscuro. Lineas de medición Igual que en el diseño anterior
+Lineas de resolución Igual que en el diseño anterior
+Cuadrados y círculos Igual que en el diseño anterior
+Pruebas con acopladores direccionales Acopladores direccionales con separación de 600nm, 800nm y 1µm.</description>
+    </item>
     
     <item>
       <title>DWL WH2mm sobre SiN: P2</title>
@@ -33,6 +45,15 @@ Se depositó AZ1518(4:3). Realizamos la preparación de la solución AZ1518+EBR 
 Limpieza Previamente se había utilizado la oblea en otras pruebas con el cabezal de 10mm, para remover la fotoresina limpiamos con acetona, isopropanol y agua.
 Fotoresina Se depositó Ti Prime para mejorar la adherencia de la fotoresina.
 Se depositó AZ1518(4:3). Realizamos la preparación de la solución AZ1518+EBR en el momento con pipetas pasteur: 4ml de az1518 y 3ml de ebr (los 7ml alcanzaron para 2 obleas).</description>
+    </item>
+    
+    <item>
+      <title>Layout de calibración para WH de 2mm - V1</title>
+      <link>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mmv1/</link>
+      <pubDate>Thu, 08 Aug 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mmv1/</guid>
+      <description>Layout completo El diseño tiene $1\times1,$mm$^2$. Está formado por líneas para medición y para analizar la resolución tanto en campo claro como campo oscuro. Lineas de medición Consisten en dos bloques, el primero tiene lineas que van de 1µm a 10µm con un paso de 1µm. La separación entre los centros es de 20µm para facilitar la medición. El segundo bloque son lineas de 600nm a 1µm con un paso de 100nm (se repite 4 veces) también con separación de 20µm EC.</description>
     </item>
     
   </channel>

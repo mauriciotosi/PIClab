@@ -4,13 +4,13 @@
   
   <url>
     <loc>https://mauriciotosi.github.io/PIClab/tags/2mm/</loc>
-    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mauriciotosi.github.io/PIClab/categories/</loc>
-    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -25,13 +25,80 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/dwl/</loc>
-    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
+    <loc>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciotosi.github.io/PIClab/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mauriciotosi.github.io/PIClab/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mmv2/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mauriciotosi.github.io/PIClab/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://mauriciotosi.github.io/PIClab/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/calibracion/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/dise%C3%B1o/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/gds/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/gds/</loc>
+    <lastmod>2019-08-26T03:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mauriciotosi.github.io/PIClab/tags/dwl/</loc>
+    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/dwl/</loc>
     <lastmod>2019-08-12T03:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -48,22 +115,6 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/</loc>
-    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciotosi.github.io/PIClab/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mauriciotosi.github.io/PIClab/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mauriciotosi.github.io/PIClab/muestras/</loc>
     <lastmod>2019-08-12T03:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -76,23 +127,12 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/tags/</loc>
-    <lastmod>2019-08-12T03:00:00+00:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mauriciotosi.github.io/PIClab/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://mauriciotosi.github.io/PIClab/tags/"
-                />
+    <loc>https://mauriciotosi.github.io/PIClab/muestras/2mmsin01/</loc>
+    <lastmod>2019-08-08T03:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/muestras/2mmsin01/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/dise%C3%B1os/piccal2mmv1/</loc>
     <lastmod>2019-08-08T03:00:00+00:00</lastmod>
   </url>
   
@@ -119,13 +159,13 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/litografia/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/litografia/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/tags/litografia/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/litografia/</loc>
     <lastmod>2018-12-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -200,13 +240,13 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/pecvd/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/pecvd/</loc>
     <lastmod>2018-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/tags/pecvd/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/pecvd/</loc>
     <lastmod>2018-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -314,13 +354,13 @@
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/categories/asher/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/tags/asher/</loc>
     <lastmod>2018-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://mauriciotosi.github.io/PIClab/tags/asher/</loc>
+    <loc>https://mauriciotosi.github.io/PIClab/categories/asher/</loc>
     <lastmod>2018-10-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
