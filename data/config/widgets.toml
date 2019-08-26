@@ -4,10 +4,10 @@ length = 10                            # default: 5
 excludeTypes = ["page"]               # default: ["page"]
 
 # Search Widget config
-[search]
-title = "Search" # default: "Search"
+#[search]
+#title = "Search" # default: "Search"
 
-[taxonomy_cloud]
-title = ""                            # default: Plural Name for `taxonomyCloud.taxonomy`
-taxonomy = "tags"                     # default: "tags"
-shuffle = false # default: true
+#[taxonomy_cloud]
+#title = ""                            # default: Plural Name for `taxonomyCloud.taxonomy`
+#taxonomy = "tags"                     # default: "tags"
+#shuffle = false # default: true
