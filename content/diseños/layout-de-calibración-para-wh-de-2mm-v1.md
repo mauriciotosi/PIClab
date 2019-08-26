@@ -2,7 +2,6 @@
 author = "Mauricio Tosi"
 categories = ["gds"]
 date = "2019-08-26T03:00:00+00:00"
-draft = true
 mathjax = true
 slug = "PICcal2mmv2"
 tags = ["diseño", "gds", "2mm", "calibracion"]
