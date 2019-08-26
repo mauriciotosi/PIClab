@@ -89,7 +89,7 @@ github = "mauriciotosi/PIClab"
 [params.widgets]
 footer = ["social_menu"]
 homepage = ["recent_posts"]
-sidebar = ["about", "sidebar_menu"]
+sidebar = ["about", "sidebar_menu", "taxonomy_cloud"]
 [permalinks]
 page = "/:slug/"
 [taxonomies]
