@@ -4,7 +4,7 @@ categories = ["gds"]
 date = "2019-08-08T03:00:00+00:00"
 draft = true
 mathjax = true
-slug = "PICcal2mm"
+slug = "PICcal2mmv1"
 tags = ["diseño", "gds", "2mm", "calibracion"]
 title = "Layout de calibración para WH de 2mm - V1"
 [output."blogdown::html_page"]
