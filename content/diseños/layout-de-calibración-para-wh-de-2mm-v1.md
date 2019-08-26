@@ -18,19 +18,26 @@ El diseño tiene $1\\times1,$mm$^2$. Está formado por líneas para medición y 
 
 # Lineas de medición
 
-Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1#Lineas)
+Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1).
 
 # Lineas de resolución
 
-Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1/)
+Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1/).
 
 # Cuadrados y círculos
 
-Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1/)
+Igual que en el [diseño anterior](/PIClab/diseños/piccal2mmv1/).
 
 # Pruebas con acopladores direccionales
 
-Acopladores direccionales con separación de 600nm, 800nm y 1µm.
+Acopladores direccionales con separación de 600nm, 800nm y 1µm. Horizontal y vertical, ambos en campo claro. A diferencia del diseño anterior, no incluímos en campo oscuro.
 
-![](/images/pic_cal_2mm_c.png)
-<img src="/PIClab/images/pic_cal_2mm_c.png" width="700"/>
+Las verticales tienen separacion de 600nm, 800nm, 1µm, 800nm y 600nm:
+
+![](/images/pic_cal_2mmv2_DC1.png)
+<img src="/PIClab/images/pic_cal_2mmv2_DC1.png" width="700"/>
+
+Las horizontales tienen sep. de 600nm, 800nm y 1µm.
+
+![](/images/pic_cal_2mmv2_DC2.png)
+<img src="/PIClab/images/pic_cal_2mmv2_DC2.png" width="700"/>
