@@ -47,3 +47,9 @@ Para revelar utilizamos **AZ351** en una solución 1:3 con agua DI.
 Revelamos un total de 25 segundos.
 
 ## Resultados
+
+Falta agregar algunas imagenes de los resultados.
+
+Nuevamente se complicó el proceso de medición de las líneas de menor resolución. Por este motivo se propuso una nueva litografía por DWL con nuevas estructuras y líneas de corte. El objetivo es exponer, revelar y cortar. Luego mirar cada muestra con el FIB.
+
+Esto también nos va a permitir caracterizar el etching del nitruro.
