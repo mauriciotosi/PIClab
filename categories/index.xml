@@ -5,10 +5,19 @@
     <link>https://mauriciotosi.github.io/PIClab/categories/</link>
     <description>Recent content in Categories on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 26 Aug 2019 03:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2019 18:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mauriciotosi.github.io/PIClab/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DWL</title>
+      <link>https://mauriciotosi.github.io/PIClab/categories/dwl/</link>
+      <pubDate>Thu, 19 Sep 2019 18:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/categories/dwl/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>gds</title>
@@ -16,15 +25,6 @@
       <pubDate>Mon, 26 Aug 2019 03:00:00 +0000</pubDate>
       
       <guid>https://mauriciotosi.github.io/PIClab/categories/gds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DWL</title>
-      <link>https://mauriciotosi.github.io/PIClab/categories/dwl/</link>
-      <pubDate>Mon, 12 Aug 2019 03:00:00 +0000</pubDate>
-      
-      <guid>https://mauriciotosi.github.io/PIClab/categories/dwl/</guid>
       <description></description>
     </item>
     
