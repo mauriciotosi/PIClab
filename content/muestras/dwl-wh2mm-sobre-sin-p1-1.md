@@ -14,7 +14,7 @@ Utilizamos una oblea del batch de obleas nitruradas [Oblea](/PIClab/obleas/nitru
 
 ### Limpieza
 
-Previamente se había utilizado la oblea en otras pruebas con el cabezal de 10mm, para remover la fotoresina limpiamos con acetona, isopropanol y agua.
+Previamente se había utilizado la oblea en otras pruebas con el cabezal de 2mm [(muestra)](/PIClab/muestras/2mmsin01), para remover la fotoresina limpiamos con acetona, isopropanol y agua.
 
 ### Fotoresina
 
