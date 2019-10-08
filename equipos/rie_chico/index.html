@@ -4,19 +4,19 @@
 <head>
   <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<meta name='description' content='   Proceso Caracteristica Tiempo     Deposito (spin coat) 4000 RPM (receta 21) 2:30 min   Post-cocido 100°C 45 seg    '>
+<meta name='description' content='Apuntes de operación básico Revisar antes de empezar  Bomba de refrigeración (RIE-chico) Gases encendidos  Encendido  Botón verde del RIE. Se prende el chiller y se setea en T=0°C y se activa manteniendo apretado el enter. Se prende la computadora. Luego de abrir el programa todas las verificaciones de abajo tienen que estar en verde menos la entrada de los gases a la camara.  Limpieza  Primero hacer vacío en la cámara.'>
 <meta name='theme-color' content='#44ccff'>
 
-<meta property='og:title' content='AZ1518 (4:3) • Laboratorio'>
-<meta property='og:description' content='   Proceso Caracteristica Tiempo     Deposito (spin coat) 4000 RPM (receta 21) 2:30 min   Post-cocido 100°C 45 seg    '>
-<meta property='og:url' content='https://mauriciotosi.github.io/PIClab/recetas/az1518/'>
+<meta property='og:title' content='RIE Chico • Laboratorio'>
+<meta property='og:description' content='Apuntes de operación básico Revisar antes de empezar  Bomba de refrigeración (RIE-chico) Gases encendidos  Encendido  Botón verde del RIE. Se prende el chiller y se setea en T=0°C y se activa manteniendo apretado el enter. Se prende la computadora. Luego de abrir el programa todas las verificaciones de abajo tienen que estar en verde menos la entrada de los gases a la camara.  Limpieza  Primero hacer vacío en la cámara.'>
+<meta property='og:url' content='https://mauriciotosi.github.io/PIClab/equipos/rie_chico/'>
 <meta property='og:site_name' content='Laboratorio'>
-<meta property='og:type' content='article'><meta property='article:section' content='Recetas'><meta property='article:tag' content='Fotoresina'><meta property='article:tag' content='AZ1518'><meta property='article:published_time' content='2018-12-12T00:00:00Z'/><meta property='article:modified_time' content='2018-12-12T00:00:00Z'/><meta name='twitter:card' content='summary'>
+<meta property='og:type' content='article'><meta property='article:section' content='Equipos'><meta property='article:tag' content='Etching'><meta property='article:tag' content='RIE'><meta property='article:published_time' content='2019-10-08T03:00:00Z'/><meta property='article:modified_time' content='2019-10-08T03:00:00Z'/><meta name='twitter:card' content='summary'>
 
 <meta name="generator" content="Hugo 0.56.3" />
 
-  <title>AZ1518 (4:3) • Laboratorio</title>
-  <link rel='canonical' href='https://mauriciotosi.github.io/PIClab/recetas/az1518/'>
+  <title>RIE Chico • Laboratorio</title>
+  <link rel='canonical' href='https://mauriciotosi.github.io/PIClab/equipos/rie_chico/'>
   
   
   <link rel='icon' href='/PIClab/favicon.ico'>
@@ -28,7 +28,7 @@
 </head>
 
 
-<body class='page type-recetas has-sidebar'>
+<body class='page type-equipos has-sidebar'>
 
   <div class='site'>
 
@@ -124,7 +124,7 @@
   <header class='header entry-header'>
   <div class='container sep-after'>
     <div class='header-info'>
-      <h1 class='title'>AZ1518 (4:3)</h1>
+      <h1 class='title'>RIE Chico</h1>
       
 
     </div>
@@ -139,7 +139,7 @@
   
 </svg>
 <span class='screen-reader-text'>Posteado en </span>
-  <time class='entry-date' datetime='2018-12-12T00:00:00Z'>2018, Dec 12</time>
+  <time class='entry-date' datetime='2019-10-08T03:00:00Z'>2019, Oct 08</time>
 </span>
 
   
@@ -157,44 +157,91 @@
   
 
   <div class='container entry-content'>
-  <table>
+  
+
+<h1 id="apuntes-de-operación-básico">Apuntes de operación básico</h1>
+
+<h2 id="revisar-antes-de-empezar">Revisar antes de empezar</h2>
+
+<ol>
+<li>Bomba de refrigeración (RIE-chico)</li>
+<li>Gases encendidos</li>
+</ol>
+
+<h2 id="encendido">Encendido</h2>
+
+<ol>
+<li>Botón verde del RIE.</li>
+<li>Se prende el chiller y se setea en T=0°C y se activa manteniendo apretado el enter.</li>
+<li>Se prende la computadora.</li>
+<li>Luego de abrir el programa todas las verificaciones de abajo tienen que estar en verde menos la entrada de los gases a la camara.</li>
+</ol>
+
+<h2 id="limpieza">Limpieza</h2>
+
+<ol>
+<li>Primero hacer vacío en la cámara.</li>
+<li>Utilizar la receta de limpieza de cámara (se puede cortar antes de que termine)</li>
+</ol>
+
+<p>En general hay que mirar el valor de tensión DC(bias). Un valor tipico cuando la cámara está limpia es 300V. Si oscila mucho es señal de suciedad.</p>
+
+<h2 id="muestras">Muestras</h2>
+
+<ol>
+<li>Sobre el wafer carry montar las muestras con un poco de grasa para mejorar la conducción térmica.</li>
+<li>Colocar las muestras lo mas cercano al centro del WC.</li>
+<li>Cerrar la cámara y hacer vacío.</li>
+<li>Ejecutar la receta.</li>
+</ol>
+
+<h1 id="recetas">Recetas</h1>
+
+<h2 id="sin-pecvd-sio-pic">SiN(PECVD)_SiO_PIC</h2>
+
+<p>Esta receta sirve para atacar el nitruro de silicio. Se creó a partir de la receta SiN(50nm).</p>
+
+<p>Observamos que para PECVD la tasa de ataque es 4.5 nm/seg. Se configuró en 1:30 minutos para comer todo el nitruro de silicio.</p>
+
+<h1 id="historial-de-ataques">Historial de ataques</h1>
+
+<h2 id="08-10-2019"><em>08/10/2019</em></h2>
+
+<p>Realizamos un ataque por <strong>RIE</strong> a una muestra de 1x1cm2 de nitruro de silicio sobre SiO2. Antes de realizar el ataque medimos el espesor con el elipsómetro. La receta utilizada es <strong>SiN(50nm)</strong> y se atacó un total de 45 seg. Luego medimos el espesor resultante y obtuvimos los siguientes valores:</p>
+
+<table>
 <thead>
 <tr>
-<th align="left">Proceso</th>
-<th align="left">Caracteristica</th>
-<th align="left">Tiempo</th>
+<th></th>
+<th>Espesor [nm]</th>
 </tr>
 </thead>
 
 <tbody>
 <tr>
-<td align="left">Deposito (spin coat)</td>
-<td align="left">4000 RPM (receta 21)</td>
-<td align="left">2:30 min</td>
+<td>Antes del RIE</td>
+<td>315.2</td>
 </tr>
 
 <tr>
-<td align="left">Post-cocido</td>
-<td align="left">100°C</td>
-<td align="left">45 seg</td>
+<td>Luego del RIE</td>
+<td>112.9</td>
 </tr>
 </tbody>
 </table>
+
+<p>Por lo tanto concluímos que la tasa de ataque es 4.5nm/seg.</p>
+
+<h2 id="08-10-2018"><em>08/10/2018</em></h2>
+
+<p>Realizamos ataque por <strong>RIE</strong> a las Muestras: P3_C3 y P3_C4. La receta utilizada es <strong>SiN(PECVD)_SiO_PIC</strong> con un total de 1:30 minutos de atauqe.</p>
 
 </div>
 
   
 <footer class='entry-footer'>
   <div class='container sep-before'>
-  <div class='categories'>
-  <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
-  
-  <path d="M22,19a2,2,0,0,1-2,2H4a2,2,0,0,1-2-2V5A2,2,0,0,1,4,3H9l2,3h9a2,2,0,0,1,2,2Z"/>
-  
-</svg>
-</span>
-  <span class='screen-reader-text'>Categorías: </span><a class='category' href='/PIClab/categories/litografia'>Litografia</a></div>
-<div class='tags'>
+  <div class='tags'>
   <span class='taxonomy-icon'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
   
   <path d="M20.59,13.41l-7.17,7.17a2,2,0,0,1-2.83,0L2,12V2H12l8.59,8.59A2,2,0,0,1,20.59,13.41Z"/>
@@ -202,7 +249,7 @@
   
 </svg>
 </span>
-  <span class='screen-reader-text'>Etiquetas: </span><a class='tag' href='/PIClab/tags/fotoresina'>Fotoresina</a>, <a class='tag' href='/PIClab/tags/az1518'>AZ1518</a></div>
+  <span class='screen-reader-text'>Etiquetas: </span><a class='tag' href='/PIClab/tags/etching'>Etching</a>, <a class='tag' href='/PIClab/tags/rie'>RIE</a></div>
 
   </div>
 </footer>
@@ -212,7 +259,7 @@
 
 <nav class='entry-nav'>
   <div class='container'><div class='prev-entry sep-before'>
-      <a href='/PIClab/recetas/dwl-mapa-exp/'>
+      <a href='/PIClab/equipos/pecvd/'>
         <span aria-hidden='true'><svg class='icon' viewbox='0 0 24 24' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' aria-hidden='true'>
   
   <line x1="20" y1="12" x2="4" y2="12"/>
@@ -220,7 +267,7 @@
   
 </svg>
  Anterior</span>
-        <span class='screen-reader-text'>Anterior entrada: </span>DWL: Mapa de Exposición</a>
+        <span class='screen-reader-text'>Anterior entrada: </span>PECVD</a>
     </div></div>
 </nav>
 
@@ -260,7 +307,11 @@
     </div>
   </div><script>window.__public_path__='https:\/\/mauriciotosi.github.io\/PIClab\/assets\/js\/'</script>
 
-<script src='https://mauriciotosi.github.io/PIClab/assets/js/main.68cb493a.js'></script><script src='/PIClab/js/custom.js'></script>
+<script src='https://mauriciotosi.github.io/PIClab/assets/js/main.68cb493a.js'></script><script src='/PIClab/js/custom.js'></script><script type='text/x-mathjax-config'>
+  MathJax.Hub.Config({"tex2jax":{"inlineMath":[["$","$"],["\\(","\\)"]],"processEscapes":true}})
+</script>
+
+<script type='text/javascript' async src='//unpkg.com/mathjax/MathJax.js?config=TeX-MML-AM_CHTML'></script>
 
 
 

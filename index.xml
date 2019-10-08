@@ -5,10 +5,19 @@
     <link>https://mauriciotosi.github.io/PIClab/</link>
     <description>Recent content on Laboratorio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 19 Sep 2019 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 03:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mauriciotosi.github.io/PIClab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RIE Chico</title>
+      <link>https://mauriciotosi.github.io/PIClab/equipos/rie_chico/</link>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      
+      <guid>https://mauriciotosi.github.io/PIClab/equipos/rie_chico/</guid>
+      <description>Apuntes de operación básico Revisar antes de empezar  Bomba de refrigeración (RIE-chico) Gases encendidos  Encendido  Botón verde del RIE. Se prende el chiller y se setea en T=0°C y se activa manteniendo apretado el enter. Se prende la computadora. Luego de abrir el programa todas las verificaciones de abajo tienen que estar en verde menos la entrada de los gases a la camara.  Limpieza  Primero hacer vacío en la cámara.</description>
+    </item>
     
     <item>
       <title>DWL WH2mm sobre SiN: P3</title>
