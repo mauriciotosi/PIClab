@@ -1,73 +1,64 @@
 +++
 author = "Mauricio Tosi"
-categories = ["DeepRIE"]
-date = "2018-10-16"
-draft = true
+categories = []
+date = "2019-10-08T03:00:00+00:00"
 mathjax = true
-slug = "rie"
+slug = "rie_chico"
 tags = ["Etching", "RIE"]
-title = "D-RIE"
+title = "RIE Chico"
 [output."blogdown::html_page"]
 toc = true
 
 +++
 # Apuntes de operación básico
 
-1. La temperatura de trabajo se setea en 15°C.
-2. Se carga la muestra. Si la muestra es más chica que una oblea, se utiliza una especie de grasa silicona para mejorar el contacto térmico y se apoya la muestra sobre una oblea de soporte.
-3. Para hacer vacío en la pre-cámara primero se pone **STOP** y luego se evacua.
-4. Se selecciona la receta.
-5. Se verifican los valores de la receta.
-6. **RUN NOW** para ejecutar la receta.
-7. Para sacar la muestra cuando termina primero se aprieta **STOP** y luego se ventea la precámara.
+## Revisar antes de empezar
+
+1. Bomba de refrigeración (RIE-chico)
+2. Gases encendidos
+
+## Encendido
+
+1. Botón verde del RIE.
+2. Se prende el chiller y se setea en T=0°C y se activa manteniendo apretado el enter.
+3. Se prende la computadora.
+4. Luego de abrir el programa todas las verificaciones de abajo tienen que estar en verde menos la entrada de los gases a la camara.
+
+## Limpieza
+
+1. Primero hacer vacío en la cámara.
+2. Utilizar la receta de limpieza de cámara (se puede cortar antes de que termine)
+
+En general hay que mirar el valor de tensión DC(bias). Un valor tipico cuando la cámara está limpia es 300V. Si oscila mucho es señal de suciedad.
+
+## Muestras
+
+1. Sobre el wafer carry montar las muestras con un poco de grasa para mejorar la conducción térmica.
+2. Colocar las muestras lo mas cercano al centro del WC.
+3. Cerrar la cámara y hacer vacío.
+4. Ejecutar la receta.
 
 # Recetas
 
-## PICShallowEtch
+## SiN(PECVD)\_SiO\_PIC
 
-Esta receta se utilizó para atacar silicio. Con el tiempo del Etch step se ajusta el espesor a atacar.
+Esta receta sirve para atacar el nitruro de silicio. Se creó a partir de la receta SiN(50nm).
 
-Cuatro etapas:
-
-1. to 5e-6 Torr
-2. Cool step
-
-   a) Tiempo: 1 minuto.
-
-   b) Helium Backing: 10 Torr
-
-   c) Chiller Temp.: 15°C
-3. Etch step
-
-   a) Tiempo: VARIABLE
-
-   b) APC/LPS: Pressure: 15 mTorr
-
-   c) Gases:
-
-   ​		- C4F8 60 sccm
-
-   ​		- SF6 50 sccm
-
-   d) HF: Foward: 35W
-
-   e) ICP: Forward: 1200W
-4. to 5e-6 Torr
+Observamos que para PECVD la tasa de ataque es 4.5 nm/seg. Se configuró en 1:30 minutos para comer todo el nitruro de silicio.
 
 # Historial de ataques
 
+## _08/10/2019_
+
+Realizamos un ataque por **RIE** a una muestra de 1x1cm2 de nitruro de silicio sobre SiO2. Antes de realizar el ataque medimos el espesor con el elipsómetro. La receta utilizada es **SiN(50nm)** y se atacó un total de 45 seg. Luego medimos el espesor resultante y obtuvimos los siguientes valores:
+
+| | Espesor [nm] |
+|---|---|
+| Antes del RIE | 315.2 |
+| Luego del RIE | 112.9 |
+
+Por lo tanto concluímos que la tasa de ataque es 4.5nm/seg.
+
 ## _08/10/2018_
 
-Realizamos un ataque por **RIE** a la [Muestra 01](/PIClab/muestras/muestra-sobre-si-s1) (oblea de silicio protegida por la AZ1518 (4:3) con fotolitografía con masterizador). La receta utilizada es **PICshallowEtch** y se atacó un total de 1:30 (un minuto y treinta segundos). El perfil se midió con el perfilómetro óptico y se obtuvo un escalón de aproximadamente 1.4 µm (buscábamos atacar un total de 500nm). La fotoresina se removió con el **ASHER**.
-
-## _16/10/2018_
-
-Realizamos tres ataques por **RIE** a las [Muestras 02](/PIClab/muestras/muestra-sobre-si-s2): C2, C3 y C4. La receta utilizada es **PICshallowEtch** y se atacó cada cuadrante un total de 25, 35 y 45 segundos respectivamente. El perfil se midió con el perfilómetro de contacto y se obtuvieron los resultados de la siguiente tabla:
-
-| Muestra | Tiempo de ataque | Escalón de Si |
-| :---: | :---: | :---: |
-| C2 | 25 seg | 500 nm |
-| C3 | 35 seg | 400 nm |
-| C4 | 45 seg | 200 nm |
-
-​
+Realizamos ataque por **RIE** a las Muestras: P3_C3 y P3_C4. La receta utilizada es **SiN(PECVD)\_SiO\_PIC** con un total de 1:30 minutos de atauqe.
