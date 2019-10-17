@@ -43,6 +43,3 @@ Revelamos un total de 25 segundos.
 
 ### Resultados
 
-![](/images/F4_N400_DF1800_E70_01.jpg)![](/images/F8_N400_DF1800_E80_04.jpg)![](/images/F8_N400_DF1800_E80_09.jpg)![](/images/F8_N400_DF1800_E80_10.jpg)
-
-<img src="/PIClab/images/F4_N400_DF1800_E70_01.jpg" width="700"/><img src="/PIClab/images/F8_N400_DF1800_E80_04.jpg" width="700"/><img src="/PIClab/images/F8_N400_DF1800_E80_09.jpg" width="700"/><img src="/PIClab/images/F8_N400_DF1800_E80_10.jpg" width="700"/>
