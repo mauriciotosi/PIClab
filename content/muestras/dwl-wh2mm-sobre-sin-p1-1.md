@@ -24,6 +24,21 @@ Se depositó [AZ1518](/PIClab/recetas/az1518)(4:3). Realizamos la preparación d
 
 ### Litografía
 
+Utilizamos el masterizador con el cabezal de 2mm. Con la configuración del [mapa de exposición](/PIClab/recetas/dwl-mapa-exp) para obleas de 4".
+
+El foco sobre la oblea es de z = -5579.
+
+El trabajo realizado es el siguiente:
+
+![](/images/MExp_19Septiembre2019.png)
+
+<img src="/PIClab/images/MExp_19Septiembre2019.png" width="700"/>
+
+Utilizamos el [archivo GDSII](/PIClab/diseños/PICcal2mm_with_PIC) de calibración para el cabezal de 2mm con distintas correcciones de spot (N500: -500nm y N400: -400nm).
+
 ### Revelado
+
+Para revelar utilizamos **AZ351** en una solución 1:3 con agua DI.
+Revelamos un total de 25 segundos.
 
 ## Resultados
