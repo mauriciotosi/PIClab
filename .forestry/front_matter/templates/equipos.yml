@@ -35,6 +35,7 @@ fields:
       name: toc
       label: toc
 pages:
+- content/muestras/dwl-wh2mm-sinciop-d1.md
 - content/muestras/dwl-wh2mm-sobre-sin-p1-1.md
 - content/muestras/dwl-wh2mm-sobre-sin-p1.md
 - content/procesos/caracterización-pr-az1518-ebr.md
