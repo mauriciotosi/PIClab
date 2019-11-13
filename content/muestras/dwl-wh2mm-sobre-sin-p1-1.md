@@ -133,10 +133,10 @@ En las siguientes imagenes se muestra el efecto del escalón en el eje x que men
 #### Espesores:
 
 | Capa | Espesor promedio \[nm\] | 
-|--- | --- | 
-| SiO2 | $470\\pm60$ | 
-| SiN  | $410\\pm20$ |
-| PR  | $180\\pm10$ |
+|---|---| 
+| SiO2 | 470+-60 | 
+| SiN  | 410+-20 |
+| PR   | 180+-10  |
 
 #### Ancho guía
 
