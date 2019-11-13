@@ -1,7 +1,7 @@
 +++
 author = "MT"
 categories = ["DWL"]
-date = "2019-09-19T18:00:00+00:00"
+date = 2019-09-19T18:00:00Z
 mathjax = true
 slug = "2mmSiN03"
 tags = ["2mm", "Fotolitografía", "SiN", "DWL"]
@@ -41,5 +41,52 @@ Utilizamos el [archivo GDSII](/PIClab/diseños/PICcal2mm_with_PIC) de calibraci�
 Para revelar utilizamos **AZ351** en una solución 1:3 con agua DI.
 Revelamos un total de 25 segundos.
 
-### Resultados
+### Corte
 
+Utilizando el wafer dicing cortamos la oblea en cuadrados de 1x1cm². Cada muestra estaba formada por cuatro de los cuadrados de 0.5x0.5cm².
+
+* **P3_M1**: Correccion de spot de -500nm, Defoc: 1700 y 1800, y energía: 70 y 80
+* **P3_M2**: Correccion de spot de -400nm, Defoc: 1700 y 1800, y energía: 70 y 80
+* **P3_M3**: Correccion de spot de -500nm, Defoc: 1700 y 1800, y energía: 70 y 80
+* **P3_M4**: Correccion de spot de -400nm, Defoc: 1700 y 1800, y energía: 70 y 80
+
+## Resultados
+
+### Litografía
+
+Utilizando el microscopio de la sala de ataque observamos las muestras una vez cortadas.
+
+En las imagenes pudismo observar en el eje x la presencia de escalones periodicos, como se observa en algunas de las imagenes.
+
+![](/images/escalon.png)
+ <img src="/PIClab/images/escalon.png" width="700"/>
+ 
+#### P3_M1 (spot -500nm)
+
+* D: 1700 y E: 70
+  ![](/images/F1.jpg)
+  <img src="/PIClab/images/F1.jpg" width="700"/>
+* D: 1700 y E: 80
+  ![](/images/F5.jpg)
+  <img src="/PIClab/images/F5.jpg" width="700"/>
+* D: 1800 y E: 70
+  ![](/images/F2.jpg)
+  <img src="/PIClab/images/F2.jpg" width="700"/>
+* D: 1800 y E: 80
+  ![](/images/F6.jpg)
+  <img src="/PIClab/images/F6.jpg" width="700"/>
+
+#### P3_M2 (spot -500nm)
+
+* D: 1700 y E: 70
+  ![](/images/F3.jpg)
+  <img src="/PIClab/images/F3.jpg" width="700"/>
+* D: 1700 y E: 80
+  ![](/images/F7.jpg)
+  <img src="/PIClab/images/F7.jpg" width="700"/>
+* D: 1800 y E: 70
+  ![](/images/F4.jpg)
+  <img src="/PIClab/images/F4.jpg" width="700"/>
+* D: 1800 y E: 80
+  ![](/images/F8.jpg)
+  <img src="/PIClab/images/F8.jpg" width="700"/>
