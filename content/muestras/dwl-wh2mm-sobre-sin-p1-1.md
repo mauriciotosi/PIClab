@@ -132,7 +132,7 @@ En las siguientes imagenes se muestra el efecto del escalón en el eje x que men
 
 #### Espesores:
 
-| Capa | Espesor promedio \[nm\] | 
+| Capa | Espesor promedio nm     | 
 |------|-------------------------| 
 | SiO2 |           470+-60       | 
 | SiN  |           410+-20       |
@@ -142,8 +142,8 @@ En las siguientes imagenes se muestra el efecto del escalón en el eje x que men
 
 Midiendo en la parte de arriba de la guía, la diferencia entre el ancho medido y el ancho esperado es de
 
-$180\pm30\text{nm}$
+$180 +- 30$nm
 
 Midiendo abajo, la diferencia es de:
 
-$50\pm20\text{nm}$
+$50 +- 20$nm
