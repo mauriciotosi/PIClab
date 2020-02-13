@@ -35,14 +35,15 @@ fields:
       name: toc
       label: toc
 pages:
-- content/muestras/dwl-wh2mm-sobre-sin-p1-1.md
-- content/muestras/dwl-wh2mm-sinciop-d1.md
-- content/muestras/dwl-wh2mm-sobre-sin-p1.md
-- content/procesos/caracterización-pr-az1518-ebr.md
-- content/diseños/layout-de-calibración-para-wh-de-2mm-v1.md
 - content/diseños/estructuras-de-calibración-para-cabezal-de-2mm.md
+- content/diseños/layout-de-calibración-para-wh-de-2mm-v1.md
+- content/muestras/dwl-w-2mm-sobre-sin-01.md
+- content/muestras/dwl-wh2mm-sinciop-d1.md
+- content/muestras/dwl-wh2mm-sobre-sin-p1-1.md
+- content/muestras/dwl-wh2mm-sobre-sin-p1.md
+- content/obleas/obleas-con-óxido-térmico-01-1.md
 - content/obleas/obleas-con-óxido-térmico-01-2.md
 - content/obleas/obleas-con-óxido-térmico-01.md
-- content/obleas/obleas-con-óxido-térmico-01-1.md
-- content/muestras/dwl-w-2mm-sobre-sin-01.md
+- content/procesos/caracterización-pr-az1518-ebr.md
+- content/recetas/az-mir-701.md
 - content/recetas/rca1-y-rca2.md
