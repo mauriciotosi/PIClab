@@ -11,9 +11,6 @@ toc = false
 
 +++
 | Proceso               |	Caracteristica        | Tiempo    |
-
-|:----------------------|:----------------------|:----------|
-
+|:---|:---|:---|
 | Deposito (spin coat)  |	4000 RPM (receta 21)  | 2:30 min  |
-
 | Post-cocido           |	90°C                 |  60 seg   |
